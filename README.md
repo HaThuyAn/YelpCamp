@@ -1,5 +1,5 @@
 # YelpCamp
-A website where users can upload information (including name, location, etc.) of a particular campground so that others can leave their reviews or comments about that campground.
+A website which performs basic CRUD operations so that users can upload new campgrounds, delete unwanted ones, update existing ones and view the available campgrounds.
 
 ![Screenshot 2023-01-16 103020](https://user-images.githubusercontent.com/90401104/212592680-79464d2a-b4ae-40e0-9d06-b516d052259c.png)
 
